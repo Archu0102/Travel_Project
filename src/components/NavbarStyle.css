@@ -68,8 +68,19 @@ button{
     transition: 0.3s;
 }
 
-button:hover{
-    background-color: #151516;
+button a{
+    text-decoration: none;
+    color: #000;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #151516;
+    color: #fff;
+}
+
+button a:hover {
+    background: #151516;
     color: #fff;
 }
 

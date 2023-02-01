@@ -28,7 +28,7 @@ class Navbar extends Component{
                     }
                 )}
 
-                <button>Sign Up</button>
+                <button><a href='/loginpage'>Sign Up</a></button>
             </ul>
         </nav>
     )
